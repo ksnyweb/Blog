@@ -23,8 +23,8 @@ site_name = "空山鸟语"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2020-04-18T16:51+08:00"
 author = "空山鸟语"
-email = "hi@imalan.cn"
-author_homepage = "cheerup.top"
+email = "ksnyweb@163.com"
+author_homepage = ""
 description = "扬帆起航"
 key_words = ['Maverick', '空山鸟语', 'Galileo', 'blog']
 language = 'zh-CN'
@@ -36,7 +36,7 @@ external_links = [
     },
     {
         "name": "空山鸟语",
-        "url": "cheerup.top",
+        "url": "https://cheerup.top",
         "brief": "空山鸟语的主页。"
     }
 ]
