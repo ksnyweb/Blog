@@ -24,9 +24,9 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2020-04-18T16:51+08:00"
 author = "空山鸟语"
 email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
+author_homepage = "cheerup.top"
 description = "扬帆起航"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['Maverick', '空山鸟语', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
@@ -35,9 +35,9 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "空山鸟语",
+        "url": "cheerup.top",
+        "brief": "空山鸟语的主页。"
     }
 ]
 nav = [
@@ -61,17 +61,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/ksnyweb",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com",
         "icon": "gi gi-weibo"
     }
 ]
