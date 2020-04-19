@@ -2,9 +2,9 @@
 layout: page
 title: 关于
 slug: about
-date: 2017/06/28 17:26:00
+date: 2020/04/19 22:00:00
 status: publish
-author: AlanDecode
+author: kongsny
 categories: 
   - Maverick
   - Dev
@@ -12,11 +12,10 @@ tags:
   - theme
 ---
 
-这里是我的个人博客，通过 GitHub 管理与构建。
+第二次尝试制作个人博客，希望坚持久一点！。
 
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
+Email: ksnyweb#163.com (replace # with @)
 
-Telegram：[AlanDecode](https://t.me/alandecode)
