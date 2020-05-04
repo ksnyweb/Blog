@@ -10,9 +10,8 @@ categories:
 tags: 
   - 博客
   - GitHub
-excerpt: Hello World!
+excerpt: give me two weeks, i will go back!-5.4
 ---
 
-这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！
-![幽灵公主剧照](./images/1463017562.jpg)
+Next two weeks!
 
