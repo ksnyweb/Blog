@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我的第一篇文章
+title: NOTE!
 slug: my-first-awesome-post
 date: 2020
 status: publish
